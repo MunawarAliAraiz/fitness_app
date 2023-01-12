@@ -19,7 +19,7 @@ const Footer = () => {
               <LinkedInIcon fontSize="large" />
               <Typography variant="h5" pb="40px" mt="5px" align='center'>LinkedIn</Typography>
             </a>
-            <a href='https://github.com/MunawarAliAraiz' style={{textDecoration: 'none', color:'#000', textAlign:"center"}}>
+            <a href='https://github.com/MunawarAliAraiz/fitness_app' style={{textDecoration: 'none', color:'#000', textAlign:"center"}}>
               <GitHubIcon fontSize="large" />
               <Typography variant="h5" pb="40px" mt="5px">GitHub</Typography>
             </a>
